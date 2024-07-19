@@ -1,0 +1,8 @@
+bot:
+  bot_token: YOUR_TOKEN
+  poller_timeout_ms: 3000ms
+  debug: false
+postgresql:
+  connstring: "host=localhost user=postgres port=5432 password=local sslmode=disable"
+http:
+  api_key: "_YOUR_API_KEY_"
